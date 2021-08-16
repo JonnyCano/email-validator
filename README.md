@@ -1,1 +1,1 @@
-# email-validator
+# CanoCano email validator
